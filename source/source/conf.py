@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'RosesAreRed'
-copyright = '2025, Daneil Duke'
-author = 'Daneil Duke'
+copyright = '2025, Daniel Duke'
+author = 'Daniel Duke'
 release = '2025'
 
 # -- General configuration ---------------------------------------------------
