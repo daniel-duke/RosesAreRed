@@ -10,7 +10,7 @@ Laura!
    :maxdepth: 2
    :caption: Contents:
 
-
+	History
 
 Indices and tables
 ==================
