@@ -14,11 +14,9 @@ Laura is sweet. Laura is fun. Laura is classy. She loves hugs, food, and dark ch
 
 On this website you will find the story of Daniel and Laura, documented according to the highest standards of reliability and verity.
 
-If you will, draw your attention to the right, where an image displays the likeness of a rose burned into a cedar wood cookie. Daniel gifted this to Laura for Christmas in 2024, approximately one month into their relationship. As far as he can tell, Laura liked it. This conclusion can be made with some confidence because she hasn't regifted it yet.
+If you will, draw your attention to the right, where an image displays the likeness of a rose burned into a cedar wood cookie. The rose, you might note, is red. Daniel gifted this to Laura for Christmas in 2024, approximately one month into their relationship. As far as he can tell, Laura liked it. This conclusion can be made with some confidence because she hasn't regifted it yet.
 
-The rose, is red.
-
-Daniel is cute. Daniel is wonderful. Daniel is a gallant boy who melts Laura's heart! Laura does like Daniel, just a little bit. Daniel is charmingly Laura's...forever and ever and ever and ever!! xoxo
+Daniel is cute. Daniel is wonderful. Daniel is a gallant boy who melts Laura's heart! Laura does like Daniel, just a little bit. Daniel is charmingly Laura's... forever and ever and ever and ever :) xoxo
 
 .. toctree::
    :maxdepth: 2
