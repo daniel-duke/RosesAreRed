@@ -1,0 +1,19 @@
+History
+=======
+
+=================
+The first wedding
+=================
+
+Something
+
+======================
+The first camping trip
+======================
+
+.. image:: images/04_tent.jpg
+   :width: 60%
+
+.. warning:: 
+   It was cold.
+
