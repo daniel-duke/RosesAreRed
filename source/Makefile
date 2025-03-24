@@ -21,5 +21,6 @@ help:
 
 # Addition by Daniel for github deployment
 github:
+	@rm -rf build ../docs
 	@make html
 	@cp -a build/html/. ../docs

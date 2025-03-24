@@ -6,7 +6,7 @@
 Laura, My Dear!
 ===============
 
-.. image:: images/030_rose_burn.jpg
+.. image:: _images/030_rose_burn.jpg
    :width: 45%
    :align: right
 
