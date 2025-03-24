@@ -27,3 +27,5 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_logo = 'images/030_rose_burn.jpg'
+

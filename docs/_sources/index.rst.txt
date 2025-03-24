@@ -6,10 +6,6 @@
 Laura, My Dear!
 ===============
 
-.. raw:: html
-
-   <meta property="og:image" content="images/030_rose_burn.jpg" />
-
 .. image:: images/030_rose_burn.jpg
    :width: 45%
    :align: right
