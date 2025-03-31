@@ -10,6 +10,14 @@ Did Daniel cook a dish with "marry me" in the name on the first date? Yes, indee
 
 .. image:: _images/000_marry_me.jpg
 
+================
+Blueberry Scones
+================
+
+Only to be improved by sugar crystals sprinkled on top.
+
+.. image:: _images/011_scones.jpg
+
 ===============
 Chicken Piccata
 ===============
@@ -50,12 +58,51 @@ Even though these look so delicious, Laura still prefers the good ol' flully pla
 
 .. image:: _images/111_biscuits.jpg
 
-===============================
+===================
+Superbowl Pinwheels
+===================
+
+Daniel and Laura, watching a sporting event? Couldn't be. Unless... there's food involved.
+
+.. image:: _images/112_pinwheels.jpg
+
+==============================
+Chocolate-Covered Strawberries
+==============================
+
+Turns out a little bit of chocolate goes a long way.
+
+.. image:: _images/131_strawberries.jpg
+
+=======================
+Lemon Artichoke Chicken
+=======================
+
+The best meal Daniel has ever made.
+
+.. image:: _images/141_lemon_chicken.jpg
+
+============
 Baked Salmon
-===============================
+============
 
 Unexpedtedly delicious. Served with hot honey cauliflower, roated potatoes, and (not pictured) homemade Ceasar salad.
 
 .. image:: _images/160_salmon.jpg
 
+================
+Beautiful Omelet
+================
+
+The first meal Laura made for Daniel in months.
+
+.. image:: _images/170_omelet.jpg
+
+=====================
+Honey Chipotle Salmon
+=====================
+
+Served with roasted cherry tomatoes, cucumber avocado feta salad, and Töst.
+
+.. image:: _images/180_salmon.jpg
 
