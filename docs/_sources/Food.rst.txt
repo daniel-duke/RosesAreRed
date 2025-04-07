@@ -106,3 +106,12 @@ Served with roasted cherry tomatoes, cucumber avocado feta salad, and Töst.
 
 .. image:: _images/180_salmon.jpg
 
+==============================
+Sweet Potato and Curry Chicken
+==============================
+
+The second 10/10! Shredded lettuc sun-dried tomato salad courtesy of Laura, dare we not forget.
+
+.. image:: _images/190_mediterranean.jpg
+
+
