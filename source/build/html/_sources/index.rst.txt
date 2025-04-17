@@ -22,10 +22,10 @@ Daniel is cute. Daniel is wonderful. Daniel is a gallant boy who melts Laura's h
    :maxdepth: 2
    :caption: Contents:
 
-   Timeline
-   Food
-   Laura_ex
-   Daniel_exs
+   page_timeline
+   page_food
+   page_laura_ex
+   page_daniel_exs
 
 Indices and tables
 ==================
