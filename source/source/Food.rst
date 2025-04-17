@@ -110,8 +110,40 @@ Served with roasted cherry tomatoes, cucumber avocado feta salad, and Töst.
 Sweet Potato and Curry Chicken
 ==============================
 
-The second 10/10! Shredded lettuc sun-dried tomato salad courtesy of Laura, dare we not forget.
+The second 10/10! Shredded lettuce sun-dried tomato salad courtesy of Laura, dare we not forget.
 
 .. image:: _images/190_mediterranean.jpg
+
+====================
+Japanese BBQ at Home
+====================
+
+Dadiel tried his darndest, but by the end of the night, meats of at all levels of doneness had been served, from still alive to charred black. However, there were enough success to warrant another attempt in the not too distant future, hopefully. Plus, Laura made some nice sauce. Great job Laura!
+
+.. image:: _images/200_cookout.jpg
+
+=================
+Blueberry Muffins
+=================
+
+Hailed by Laura's father as possibly the best muffins he has tasted - soft on the inside with a crispy streusel.
+
+.. image:: _images/210_muffins.jpg
+
+===========
+Sumo Orange
+===========
+
+Beautifully arranged by a beautiful person. A perfect refreshment after a long afternoon of sanding and mowing.
+
+.. image:: _images/220_sumo_orange.jpg
+
+=================
+Tomato Basil Soup
+=================
+
+First meal of 2025 using fresh herbs from the garden!
+
+.. image:: _images/230_tomato_soup.jpg
 
 
