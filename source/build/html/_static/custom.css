@@ -1,10 +1,11 @@
-/* Background color of */
+/* Background color of top sidebar */
 .wy-side-nav-search {
-    background-color: #7e191b;  /* Search box background */
+    background-color: #7e191b;
 }
 
-/* This targets the "Contents:" label in the sidebar */
+/* Text color of "Contents" label in the sidebar */
 .wy-menu .caption .caption-text {
-    color: #8b0000 !important;  /* Use !important in case something overrides it */
+    color: #b3242b !important;
+    font-weight: bold !important;
 }
 
