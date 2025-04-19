@@ -118,7 +118,7 @@ The second 10/10! Shredded lettuce sun-dried tomato salad courtesy of Laura, dar
 Japanese BBQ at Home
 ====================
 
-Dadiel tried his darndest, but by the end of the night meats of at all levels of doneness had been served, from still bleeding to charred black. However, there wwere enough successes to warrant another attempt in the not too distant future, hopefully. Plus, Laura made some nice sauce. Great job Laura!
+"Dadiel" tried his darndest, but by the end of the night meats of at all levels of done-ness had been served, from still mooing to charred black. However, there was enough success to warrant another attempt in the not too distant future, hopefully. Plus, Laura made some nice sauce. Great job Laura!
 
 .. image:: _images/200_cookout.jpg
 

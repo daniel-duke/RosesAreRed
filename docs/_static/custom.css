@@ -1,0 +1,8 @@
+/* Example: change the background color */
+body {
+    background-color: #f0f0f0;  /* Light grey or any color you prefer */
+}
+
+.wy-side-nav-search {
+    background-color: #7e191b;  /* Search box background */
+}
