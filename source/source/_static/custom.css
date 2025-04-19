@@ -1,8 +1,10 @@
-/* Example: change the background color */
-body {
-    background-color: #f0f0f0;  /* Light grey or any color you prefer */
-}
-
+/* Background color of */
 .wy-side-nav-search {
     background-color: #7e191b;  /* Search box background */
 }
+
+/* This targets the "Contents:" label in the sidebar */
+.wy-menu .caption .caption-text {
+    color: #8b0000 !important;  /* Use !important in case something overrides it */
+}
+
