@@ -9,3 +9,8 @@
     font-weight: bold !important;
 }
 
+/* Change mobile header bar background color */
+.wy-nav-top {
+    background-color: #7e191b !important;
+}
+
