@@ -22,7 +22,7 @@ Scary warewolves haunted their dreams.
 
 .. image:: _images/040_tent.jpg
 
-.. warning:: 
+.. attention:: 
    It was cold.
 
 ===============
@@ -35,14 +35,29 @@ The First Climb
 The First Photoshoot
 ====================
 
+"Butterflies!"
+
 .. image:: _images/150c_hug.jpeg
-   :width: 45%
+   :width: 48%
    :align: left
-.. image:: _images/150d_holding.jpg
-   :width: 45%
+.. image:: _images/280e_posture.jpg
+   :width: 44%
    :align: right
-.. image:: _images/150a_running.jpeg
+.. image:: _images/280f_hand_kiss.jpeg
 
 .. warning:: 
    Running barefoot on nearly frozen grass can be painful.
+
+===============
+Mini Photoshoot
+===============
+
+Perks of having graduating sisters - free photos!
+
+.. image:: _images/290a_pro.jpg
+   :width: 44.8%
+   :align: left
+.. image:: _images/290c_cute.jpg
+   :width: 47.4%
+   :align: right
 
