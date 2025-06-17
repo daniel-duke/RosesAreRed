@@ -7,12 +7,7 @@ The First Wedding
 
 The first wedding Laura and Daniel attended. In other words, the second date.
 
-.. image:: _images/001b_wedding.jpg
-   :width: 45%
-   :align: left
-.. image:: _images/001c_wedding.jpg
-   :width: 45.5%
-   :align: right
+.. image:: _images/001_first_wedding.jpg
 
 ======================
 The First Camping Trip
@@ -37,13 +32,7 @@ The First Photoshoot
 
 "Butterflies!"
 
-.. image:: _images/150c_hug.jpeg
-   :width: 48%
-   :align: left
-.. image:: _images/280e_posture.jpg
-   :width: 44%
-   :align: right
-.. image:: _images/280f_hand_kiss.jpeg
+.. image:: _images/150_first_photoshoot.jpg
 
 .. warning:: 
    Running barefoot on nearly frozen grass can be painful.
@@ -54,10 +43,5 @@ Mini Photoshoot
 
 Perks of having graduating sisters - free photos!
 
-.. image:: _images/290a_pro.jpg
-   :width: 44.8%
-   :align: left
-.. image:: _images/290c_cute.jpg
-   :width: 47.4%
-   :align: right
+.. image:: _images/290_mini_photoshoot.jpg
 
