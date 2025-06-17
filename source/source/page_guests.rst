@@ -8,13 +8,13 @@ Xingzi and Sophie - Hanging Rock
 What can be said, other than everyone hung on rocks.
 
 .. image:: _images/310c_xingzi_sophie.jpg
-   :width: 50%
+   :width: 49.8%
    :align: left
 .. image:: _images/310a_hanging_laura.jpg
-   :width: 42.2%
+   :width: 42%
    :align: right
 .. image:: _images/310b_hanging_daniel.jpg
-   :width: 42.2%
+   :width: 42%
    :align: right
 
 ==============================
