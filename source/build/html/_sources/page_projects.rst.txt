@@ -19,7 +19,7 @@ Spring Planting
 Pengiton Prints
 ===============
 
-Laura has been reading, quite a bit in fact. For an overwhelmingly cute documentation of her reads (or, to be more precise, her listens), click `here <https://cadnano.org/index.html>`_!
+Laura has been reading, quite a bit in fact. For an overwhelmingly cute documentation of her reads (or, to be more precise, her listens), click `here <https://pengitonprints.my.canva.site/>`_!
 
 ==============================
 The Newest Citizen of Pengiton
