@@ -9,7 +9,7 @@ Did Daniel cook a dish with "marry me" in the name on the first date? Yes, indee
 
 .. image:: _images/240929_marry_me.jpg
 
-.. note:: Daniel had a few too many things on his mind to take a website-worthy photo of this meal, but the dish was tasty enough to be remade (and adequately photographed) several months later. But even that photo is not as pretty as the first attempt at the dish, from before Daniel even met Laura (in the flesh, at least).
+.. note:: Daniel had a few too many things on his mind to take a website-worthy photo of this meal, but the dish was tasty enough to be remade (and adequately photographed) several months later. But even that photo is not as pretty as the first attempt at the dish (pictured above), from before Daniel even met Laura (in the flesh, at least).
 
 ================
 Blueberry Scones
@@ -41,7 +41,7 @@ The first Phillips dinner supplied by Chef de Cuisine Daniel Duke.
 Corn Chowder
 ============
 
-The first soup that stole Laura's heart.
+The soup that stole Laura's heart.
 
 .. image:: _images/250101_chowder.jpg
 
@@ -127,7 +127,7 @@ The second 10/10! Shredded lettuce sun-dried tomato salad courtesy of Laura, dar
 Japanese BBQ at Home
 ====================
 
-"Dadiel" tried his darndest, but by the end of the night meats of at all levels of done-ness had been served, from still mooing to charred black. However, there was enough success to warrant another attempt in the not too distant future, hopefully. Plus, Laura made some nice sauce. Great job Laura!
+"Dadiel" tried his darndest, but by the end of the night, meats at all levels of done-ness had been served, from still mooing to charred black. However, there was enough success to warrant another attempt in the not too distant future. Plus, Laura made some nice sauce. Great job Laura!
 
 .. image:: _images/250411_cookout.jpg
 
@@ -177,7 +177,7 @@ Hastily thrown together late on a Sunday night, but turned out unexpectedly good
 
 .. image:: _images/250905_tapenade_chicken.jpg
 
-.. warning:: Plate meals photograph better than bowl meals. Thus, this pictured dish is a remake from several months later.
+.. note:: Plate meals photograph better than bowl meals. Thus, this pictured dish is a remake from several months later.
 
 ============
 Kale Ravioli
@@ -197,6 +197,8 @@ From inception to production: 45 min flat.
 
 .. image:: _images/250623_chicken_parm.jpg
 
+.. tip:: Orzo cannot be beaten. Whether baked with pesto, sauteed with sun-dired tomatoes, or simply softened with olive oil, it always comes out delicious.
+
 ===========
 Vegan Tacos
 ===========
@@ -209,9 +211,11 @@ Cauliflower and lentil tacos with mexican street corn and roasted tomatoes.
 Cookies
 =======
 
-Chocolate chip and magic in the middle.
+Choose your poison: chocolate chip or magic in the middle.
 
 .. image:: _images/250706_cookies.jpg
+
+.. note:: This time, the magic stayed in the middle! To acheive this, practice baking for several years.
 
 =====
 Tacos
@@ -230,6 +234,8 @@ Chicken Marsala
 =========================
 Salmon with Chickpea Kale
 =========================
+
+The simplicity, diversity, timeliness, and flawless execution of this meal earned it a 10/10!
 
 .. image:: _images/250717_salmon_kale.jpg
 
@@ -282,6 +288,10 @@ Macaroons
 =========
 
 .. image:: _images/250912_macaroons.jpg
+
+.. warning:: Adding liquid flavor (such as orange or lemon juice) changes the consistency of the batter, resulting in flataroons. Also, make sure to sift the almond flour. Oh, and a little bit of butter cream goes a long way.
+
+.. note:: Despite all the warnings and lessons learned, the flavor is surprisingly easy to hit just right.
 
 ===============
 Dan Dan Noodles

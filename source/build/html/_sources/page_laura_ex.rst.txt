@@ -6,5 +6,5 @@ Experiment No. 1
 ================
 
 .. tip::
-   Some experiments provide useful information through failure.
+   Some experiments provide constructive information despite ultimate failure.
 
