@@ -20,6 +20,12 @@ Scary warewolves haunted their dreams.
 .. attention:: 
    It was cold.
 
+===================
+The First Christmas
+===================
+
+.. image:: _images/241208_lyh_tree.jpg
+
 ===============
 The First Climb
 ===============
@@ -37,6 +43,12 @@ The First Photoshoot
 .. warning:: 
    Running barefoot on nearly frozen grass can be painful.
 
+===================
+The First Snowstorm
+===================
+
+.. image:: _images/250219_snow_selfie.jpg
+
 ===============
 Mini Photoshoot
 ===============
@@ -44,4 +56,5 @@ Mini Photoshoot
 Perks of having graduating sisters - free photos!
 
 .. image:: _images/250510_photoshoot.jpg
+
 
