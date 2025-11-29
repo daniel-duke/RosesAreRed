@@ -5,7 +5,9 @@ Lovers' Digest
 Marry Me Chicken
 ================
 
-Did Daniel cook a dish with "marry me" in the name on the first date? Yes, indeed he did.
+Did Daniel cook a dish with "marry me" in the name on the first date? Yes, indeed he did. Recipe__.
+
+__ https://www.halfbakedharvest.com/pesto-marry-me-chicken-and-orzo/
 
 .. image:: _images/240929_marry_me.jpg
 
@@ -15,7 +17,9 @@ Did Daniel cook a dish with "marry me" in the name on the first date? Yes, indee
 Blueberry Scones
 ================
 
-Only to be improved by sugar crystals sprinkled on top.
+Only to be improved by sugar crystals sprinkled on top. Recipe__.
+
+__ https://sallysbakingaddiction.com/my-favorite-blueberry-scones/
 
 .. image:: _images/241201_scones.jpg
 
@@ -23,7 +27,9 @@ Only to be improved by sugar crystals sprinkled on top.
 Beef Rogan Josh
 ===============
 
-The first Indian dish, which was heartily endorsed by Komal.
+The first Indian dish, which was heartily endorsed by Komal. Recipe__.
+
+__ https://www.recipetineats.com/rogan-josh/
 
 .. image:: _images/241207_rogan_josh_3.jpg
 
@@ -33,7 +39,9 @@ The first Indian dish, which was heartily endorsed by Komal.
 Chicken Piccata
 ===============
 
-The first Phillips dinner supplied by Chef de Cuisine Daniel Duke.
+The first Phillips dinner supplied by Chef de Cuisine Daniel Duke. Recipe__ (double the sauce).
+
+__ https://themodernproper.com/chicken-piccata
 
 .. image:: _images/241231_piccata.jpg
 
@@ -41,7 +49,9 @@ The first Phillips dinner supplied by Chef de Cuisine Daniel Duke.
 Corn Chowder
 ============
 
-The soup that stole Laura's heart.
+The soup that stole Laura's heart. Recipe__.
+
+__ https://natashaskitchen.com/corn-chowder-recipe/
 
 .. image:: _images/250101_chowder.jpg
 
@@ -51,7 +61,9 @@ The soup that stole Laura's heart.
 Roasted Tomato Quiche
 =====================
 
-One of four quiches prepared in a single night.
+One of four quiches prepared in a single night. Recipe__ (add cayenne to egg mixture and tomatoes on top).
+
+__ https://sallysbakingaddiction.com/cheesy-spinach-quiche/
 
 .. image:: _images/250121_quiche.jpg
 
@@ -61,7 +73,9 @@ One of four quiches prepared in a single night.
 Cinnamon Biscuits
 =================
 
-Even though these look so delicious, Laura still prefers the good ol' flully plain ones.
+Even though these look so delicious, Laura still prefers the good ol' flully plain ones. Recipe__ (for regular ones)
+
+__ https://sugarspunrun.com/easy-homemade-biscuits/
 
 .. image:: _images/250208_biscuits.jpg
 
@@ -69,7 +83,9 @@ Even though these look so delicious, Laura still prefers the good ol' flully pla
 Superbowl Pinwheels
 ===================
 
-Daniel and Laura, watching a sporting event? Couldn't be. Unless... there's food involved.
+Daniel and Laura, watching a sporting event? Couldn't be. Unless... there's food involved. Recipe__ (cut amount of butter in half).
+
+__ https://www.kevinandamanda.com/ham-roll-ups-pinwheels/
 
 .. image:: _images/250209_pinwheels.jpg
 
@@ -77,7 +93,7 @@ Daniel and Laura, watching a sporting event? Couldn't be. Unless... there's food
 Chocolate-Covered Strawberries
 ==============================
 
-Turns out a little bit of chocolate goes a long way.
+Turns out a little bit of chocolate goes a long way. Recipe: just cover the strawberries with chocolate, this one is really quite simple.
 
 .. image:: _images/250214_strawberries.jpg
 
@@ -85,7 +101,9 @@ Turns out a little bit of chocolate goes a long way.
 Lemon Artichoke Chicken
 =======================
 
-The best meal Daniel has ever made (and the first official 10/10).
+The best meal Daniel has ever made (and the first official 10/10). Recipe__.
+
+__ https://www.halfbakedharvest.com/spinach-and-artichoke-chicken/
 
 .. image:: _images/250612_lemon_chicken.jpg
 
@@ -95,7 +113,9 @@ The best meal Daniel has ever made (and the first official 10/10).
 Baked Salmon
 ============
 
-Unexpedtedly delicious. Served with hot honey cauliflower, roated potatoes, and (not pictured) homemade Ceasar salad.
+Unexpedtedly delicious. Served with hot honey cauliflower, roated potatoes, and (not pictured) homemade Ceasar salad. Recipe__.
+
+__ https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-baked-salmon-1-8081733
 
 .. image:: _images/250322_baked_salmon.jpg
 
@@ -111,7 +131,9 @@ The first meal Laura made for Daniel in months.
 Honey Chipotle Salmon
 =====================
 
-Served with roasted cherry tomatoes, cucumber avocado feta salad, and Töst.
+Served with roasted cherry tomatoes, cucumber avocado feta salad, and Töst. Recipe__ (use plenty of lemon juice).
+
+__ https://www.halfbakedharvest.com/chipotle-honey-salmon-bowls/
 
 .. image:: _images/250331_chipotle_salmon.jpg
 
@@ -119,7 +141,9 @@ Served with roasted cherry tomatoes, cucumber avocado feta salad, and Töst.
 Sweet Potato and Curry Chicken
 ==============================
 
-The second 10/10! Shredded lettuce sun-dried tomato salad courtesy of Laura, dare we not forget.
+The second 10/10! Shredded lettuce sun-dried tomato salad courtesy of Laura, dare we not forget. Recipe__.
+
+__ https://www.halfbakedharvest.com/curry-chicken-gyro/
 
 .. image:: _images/250406_mediterranean.jpg
 
@@ -137,7 +161,9 @@ Japanese BBQ at Home
 Blueberry Muffins
 =================
 
-Hailed by Laura's father as possibly the best muffins he has tasted - soft on the inside with a crispy streusel on top.
+Hailed by Laura's father as possibly the best muffins he has tasted - soft on the inside with a crispy streusel on top. Recipe__.
+
+__ https://www.culinaryhill.com/blueberry-muffins/
 
 .. image:: _images/250412_muffins.jpg
 
@@ -155,7 +181,9 @@ Beautifully arranged by a beautiful person. A perfect refreshment after a long a
 Tomato Basil Soup
 =================
 
-Perfectly balanced sweetness from sugar and acidity from tomatoes, accented fresh oregano from the garden.
+Perfectly balanced sweetness from sugar and acidity from tomatoes, accented fresh oregano from the garden. Recipe__ (we use campari tomatoes).
+
+__ https://www.foodnetwork.com/recipes/ree-drummond/best-tomato-soup-ever-2138619
 
 .. image:: _images/250413_tomato_soup.jpg
 
@@ -173,7 +201,7 @@ Most of the biscuits were normal, but the swirly one is quite cute and nice, eve
 Tapenade Orzo Chicken
 =====================
 
-Hastily thrown together late on a Sunday night, but turned out unexpectedly good!
+Hastily thrown together late on a Sunday night, but turned out unexpectedly good! Recipe: inspired by the marry me chicken, but heavily altered (by including tapenade, for instance).
 
 .. image:: _images/250905_tapenade_chicken.jpg
 
@@ -183,7 +211,9 @@ Hastily thrown together late on a Sunday night, but turned out unexpectedly good
 Kale Ravioli
 ============
 
-Accented with red onions, apple cider vinegar, butternut squash, and juicy roasted tomatoes.
+Accented with red onions, apple cider vinegar, butternut squash, and juicy roasted tomatoes. Recipe__.
+
+__ https://www.eatingwell.com/recipe/274005/butternut-squash-ravioli-with-chicken-sausage-kale/
 
 .. image:: _images/250613_kale_ravioli.jpg
 
@@ -193,7 +223,9 @@ Accented with red onions, apple cider vinegar, butternut squash, and juicy roast
 Chicken Parmesan
 ================
 
-From inception to production: 45 min flat.
+From inception to production: 45 min flat. Recipe__.
+
+__ https://www.skinnytaste.com/baked-chicken-parmesan/
 
 .. image:: _images/250623_chicken_parm.jpg
 
@@ -203,7 +235,9 @@ From inception to production: 45 min flat.
 Vegan Tacos
 ===========
 
-Cauliflower and lentil tacos with mexican street corn and roasted tomatoes.
+Cauliflower and lentil tacos with mexican street corn and roasted tomatoes. Recipe__.
+
+__ https://cookieandkate.com/roasted-cauliflower-and-lentil-tacos/
 
 .. image:: _images/250625_vegan_tacos.jpg
 
@@ -211,7 +245,11 @@ Cauliflower and lentil tacos with mexican street corn and roasted tomatoes.
 Cookies
 =======
 
-Choose your poison: chocolate chip or magic in the middle.
+Choose your poison: chocolate chip or magic in the middle. Recipe__ and Recipe__.
+
+__ https://gluesticksblog.com/copycat-chick-fil-a-chocolate-chunk-cookies-recipe/
+
+__ https://www.kingarthurbaking.com/recipes/magic-in-the-middles-recipe
 
 .. image:: _images/250706_cookies.jpg
 
@@ -229,13 +267,19 @@ Made with special help from Bethany and Nanz.
 Chicken Marsala
 ================
 
+Recipe__.
+
+__ https://www.onceuponachef.com/recipes/chicken-marsala.html
+
 .. image:: _images/250712_marsala.jpg
 
 =========================
 Salmon with Chickpea Kale
 =========================
 
-The simplicity, diversity, timeliness, and flawless execution of this meal earned it a 10/10!
+The simplicity, diversity, timeliness, and flawless execution of this meal earned it a 10/10! Recipe__.
+
+__ https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-baked-salmon-1-8081733
 
 .. image:: _images/250717_salmon_kale.jpg
 
@@ -251,6 +295,10 @@ Steaks courtesty of the steak master: Chef Lin Po-An.
 Raspberry Cheese Danish
 =======================
 
+Recipe__.
+
+__ https://sugarspunrun.com/cheese-danish/
+
 .. image:: _images/250813_danish.jpg
 
 ================
@@ -265,13 +313,19 @@ Let it never be said that Laura does not take care of Daniel when he is sick.
 Chicken Tagine
 ==============
 
+Recipe__.
+
+__ https://www.feastingathome.com/tunisian-chicken-with-cous-cous/
+
 .. image:: _images/250824_tagine.jpg
 
 ==============
 Spanish Paella
 ==============
 
-Check out those charred rice bits :)
+Check out those charred rice bits :) Recipe__.
+
+__ https://sunbasket.com/recipe/mediterranean-garlic-shrimp-with-spanish-rice
 
 .. image:: _images/250829_paella.jpg
 
@@ -283,13 +337,17 @@ Cuisines represented: German (brats and red cabbage), Chinese (lotus root and sh
 
 .. image:: _images/250906_cookout.jpg
 
-=========
-Macaroons
-=========
+========
+Macarons
+========
 
-.. image:: _images/250912_macaroons.jpg
+Recipe__.
 
-.. warning:: Adding liquid flavor (such as orange or lemon juice) changes the consistency of the batter, resulting in flataroons. Also, make sure to sift the almond flour. Oh, and a little bit of butter cream goes a long way.
+__ https://preppykitchen.com/french-macarons/
+
+.. image:: _images/250912_macarons.jpg
+
+.. warning:: Adding liquid flavor (such as orange or lemon juice) changes the consistency of the batter, resulting in flatarons. Also, make sure to sift the almond flour. Oh, and a little bit of butter cream goes a long way.
 
 .. note:: Despite all the warnings and lessons learned, the flavor is surprisingly easy to hit just right.
 
@@ -297,5 +355,106 @@ Macaroons
 Dan Dan Noodles
 ===============
 
+Daniel made this meal by himself, for himself, but very inspired by Laura.
+
 .. image:: _images/250929_dan_dan.jpg
+
+==============
+Feasting in CT
+==============
+
+What to do in Connecticut? Mostly cook, it seems. Over the course of the weekend we made corn chowder, Turkish eggs, rustic bread, a steak dinner (with 7 dishes), and cranberry orange scones.
+
+.. image:: _images/251101_hahner_food.jpg
+
+=========
+Egg Tarts
+=========
+
+.. image:: _images/251008_egg_tart.jpg
+
+=====================
+Butternut Squash Soup
+=====================
+
+Soup season! Yay!
+
+.. image:: _images/251012_butternut_soup.jpg
+
+========================
+Stone Mountain Breakfast
+========================
+
+One part of a magical weekend.
+
+.. image:: _images/251019_camping.jpg
+
+=======
+Cookout
+=======
+
+Meat courtesy of Po-An. Thanks man!
+
+.. image:: _images/251026_cookout.jpg
+
+====================
+Lake James Breakfast
+====================
+
+Sometimes food is so good, it can end up being the best part of the weekend.
+
+.. image:: _images/251109_camping.jpg
+
+==================
+Chicken Tamale Pie
+==================
+
+.. image:: _images/251112_tamale_pie_2.jpg
+
+============
+Sweet Potato
+============
+
+Recipe__.
+
+__ https://www.delish.com/cooking/recipe-ideas/a62770460/sheet-pan-miso-chicken-and-sweet-potatoes-recipe/
+
+.. image:: _images/251114_miso_chicken.jpg
+
+=============================
+Mediterranean Roasted Veggies
+=============================
+
+Recipe__.
+
+__ https://www.recipetineats.com/mediterranean-baked-chicken-dinner/
+
+.. image:: _images/251122_med_veggies.jpg
+
+===================
+Coconut Tomato Soup
+===================
+
+Recipe__.
+
+__ https://thenewbaguette.com/creamy-vegan-tomato-soup/#tasty-recipes-31340-jump-target
+
+.. image:: _images/251122_coconut_tomato_soup.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
