@@ -6,7 +6,7 @@
 Laura, My Dear!
 ===============
 
-.. image:: _images/241220_rose_burn.jpg
+.. image:: _images/index/241220_rose_burn.jpg
    :width: 40%
    :align: right
 
@@ -29,6 +29,9 @@ Daniel is cute. Daniel is wonderful. Daniel is a gallant boy who melts Laura's h
    page_2025_calendar
    page_guests
    page_projects
+   page_adventures
+   page_jumps
+   page_curiosities
 
 Indices and tables
 ==================

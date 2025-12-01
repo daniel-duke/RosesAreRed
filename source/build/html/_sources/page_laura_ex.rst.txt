@@ -6,5 +6,4 @@ Experiment No. 1
 ================
 
 .. tip::
-   Some experiments provide constructive information despite ultimate failure.
-
+   Even catastrophic experiments can produce data worth deciphering.

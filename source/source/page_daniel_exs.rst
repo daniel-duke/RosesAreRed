@@ -14,5 +14,5 @@ Dishonorable?
 Honorable Mention 37
 ====================
 
-Fairly nice person.
+No hard feelings.
 
