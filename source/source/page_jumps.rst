@@ -29,6 +29,6 @@ Some folks other than Daniel have joined the fun! Yipee!
 Daniel - Stone Mountain
 =======================
 
-But of course, Daniel is still at it as well.
+But of course, Daniel is still at it too.
 
 .. image:: _images/jumps/251019_stone_daniel.jpg

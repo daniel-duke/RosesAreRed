@@ -83,7 +83,7 @@ __ https://sugarspunrun.com/easy-homemade-biscuits/
 Superbowl Pinwheels
 ===================
 
-Daniel and Laura, watching a sporting event? Couldn't be. Unless... there's food involved. Recipe__ (cut amount of butter in half).
+Laura and Daniel, watching a sporting event? Couldn't be. Unless... there's food involved. Recipe__ (cut amount of butter in half).
 
 __ https://www.kevinandamanda.com/ham-roll-ups-pinwheels/
 
@@ -181,7 +181,7 @@ Beautifully arranged by a beautiful person. A perfect refreshment after a long a
 Tomato Basil Soup
 =================
 
-Perfectly balanced sweetness from sugar and acidity from tomatoes, accented fresh oregano from the garden. Recipe__ (we use campari tomatoes).
+Perfectly balanced sweetness from sugar and acidity from tomatoes, accented fresh oregano from the garden. Recipe__ (Laura and Daniel use campari tomatoes).
 
 __ https://www.foodnetwork.com/recipes/ree-drummond/best-tomato-soup-ever-2138619
 
@@ -367,7 +367,8 @@ Daniel made this meal by himself, for himself, but very inspired by Laura.
 Feasting in CT
 ==============
 
-What to do in Connecticut? Mostly cook, it seems. Over the course of the weekend we made corn chowder, Turkish eggs, rustic bread, a steak dinner (with 7 dishes), and cranberry orange scones.
+What to do in Connecticut? Mostly cook, it seems.
+Over the course of the weekend, the crew made corn chowder, Turkish eggs, rustic bread, a steak dinner (with 7 dishes), and cranberry orange scones.
 
 .. image:: _images/food/251101_hahner_food.jpg
 
@@ -385,7 +386,7 @@ __ https://thewoksoflife.com/hong-kong-egg-tarts/
 Butternut Squash Soup
 =====================
 
-Soup season! Yay! Recipe__.
+Soup season, yay! Recipe__.
 
 __ https://drveganblog.com/roasted-butternut-squash-soup/
 

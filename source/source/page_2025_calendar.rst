@@ -1,7 +1,7 @@
 Summer 2025 Calendar
 ====================
 
-Daniel and Laura have lots going on!
+Laura and Daniel have lots going on!
 
 .. raw:: html
 
