@@ -82,7 +82,7 @@ Second Wedding
    Never underestimate the invigorating power of the YMCA song.
 
 .. tip::
-   Mossback Distillery has tasty drinks and an ideal atmosphere, including a sweet old lady playing the piano (feel free to ask Laura all about her).
+   Mossback Distillery has tasty drinks and a charming atmosphere, including a sweet old lady playing the piano (feel free to ask Laura all about her).
 
 
 

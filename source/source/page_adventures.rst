@@ -47,13 +47,15 @@ The votes are in: this trip succeeded in every way possible.
 .. image:: _images/adventures/251019_stone.jpg
 
 .. tip::
-   Some trips work, some trips flop. This partially depends on proper planning, but it also depends on luck: not because it requires luck for everything to go according to plan, but because things "falling into place" adds a certain charm to a trip that it cannot adorn otherwise.
+   Some trips work, some trips flop.
+   This partially depends on proper planning, but it also depends on luck: not because it requires luck for everything to go according to plan, but because things "falling into place" adds a certain charm to a trip that it cannot adorn otherwise.
 
 ===================
 Connecticut, Again!
 ===================
 
-Laura and Daniel did a much better job taking pictures of nature this trip than each other. They may occasionally consider themselves not-half-bad-looking, but alas, sometimes nature steals the show.
+Laura and Daniel did a much better job taking pictures of nature this trip than each other.
+They may occasionally consider themselves not-half-bad-looking, but alas, sometimes nature steals the show.
 
 .. image:: _images/adventures/251101_CT2_1.jpg
 
