@@ -9,7 +9,7 @@ Sharp Top
 
 .. error::
    A brave, sure-footed boyfriend might anticipate that jumping between rocks on a mountain peak with his shivering girlfriend in his arms would be taken as a chivalrous act demonstrating his agility.
-   However, this expectation would be made in error, for the girlfriend will instead overwhelmingly focus on the danger in which his foolhearty leap of faith places her.
+   However, this expectation would be made in error, for his girlfriend will instead focus entirely on the danger in which his foolhearty leap of faith places her.
 
 ===========
 Connecticut
@@ -27,7 +27,7 @@ Topsail Beach
 .. image:: _images/adventures/250823_topsail.jpg
 
 .. warning::
-   Laura to too adorable! Beware!
+   Laura is to too adorable! Beware, or she will make you miss her!
 
 ==============
 Pilot Mountain
