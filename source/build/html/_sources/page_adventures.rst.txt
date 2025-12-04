@@ -29,6 +29,14 @@ Topsail Beach
 .. warning::
    Laura is to too adorable! Beware, or she will make you miss her!
 
+=============
+Roan Mountain
+=============
+
+The first of the 2025 fall mountain trips!
+
+.. image:: _images/adventures/251005_roan.jpg
+
 ==============
 Pilot Mountain
 ==============
