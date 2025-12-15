@@ -13,7 +13,9 @@ Laura helped keep Daniel square.
 Spring Planting
 ===============
 
-.. image:: _images/projects/250522_plants.jpg
+.. image:: _images/projects/250522_plants_1.jpg
+
+.. image:: _images/projects/250522_plants_2.jpg
 
 ===============
 Pengiton Prints
@@ -27,3 +29,10 @@ The Newest Citizen of Pengiton
 ==============================
 
 .. image:: _images/projects/250724_penguin.jpg
+
+===============
+Plant Sanctuary
+===============
+
+.. image:: _images/projects/251210_plant_sanctuary.jpg
+
