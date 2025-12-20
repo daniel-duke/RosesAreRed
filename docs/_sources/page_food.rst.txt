@@ -475,15 +475,35 @@ Coconut Tomato Soup
 
 Recipe__.
 
-__ https://thenewbaguette.com/creamy-vegan-tomato-soup/#tasty-recipes-31340-jump-target
+__ https://thenewbaguette.com/creamy-vegan-tomato-soup/
 
 .. image:: _images/food/251122_coconut_tomato_soup.jpg
 
+============
+Rustic Bread
+============
 
+First attempted at the Hahner homestead, this smashing success of a loaf acheived staple status in record time. Recipe__.
 
+__ https://www.recipetineats.com/easy-yeast-bread-recipe-no-knead/
 
+.. image:: _images/food/251211_rustic_bread.jpg
 
+.. important::
+   This recipe only requires five ingredients (flour, water, salt, yeast), and no kneading!
+   So it can be thrown together in no time!
+   Although, this statement is not strictly accurate, since the fifth ingredient (an astute observer may have noticed only four were listed earlier) is time.
+   The recipe recommends, but does not require, refrigerating the dough overnight.
+   Partially due to convenient scheduling, and partially due to some lessons learned from a few years of baking, Daniel has always refrigerated his dough.
+   Since his loaves have always pleased Laura immensely, he recommends doing the same.
 
+===============
+Candied Oranges
+===============
+
+Recipe: Laura and Daniel are currently figuring that out, stay tuned!
+
+.. image:: _images/food/251211_candied_oranges.jpg
 
 
 

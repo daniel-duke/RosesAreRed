@@ -65,3 +65,11 @@ Alisha - Staining
 
 .. image:: _images/guests/251116_alisha_stain.jpg
 
+======================
+Bethany - Indian Feast
+======================
+
+Though prepared in a college dorm room and eaten with plastic cutlery, this glorious medley of vivid flavors compelled Daniel to repeatedly lavish praise upon Bethany for her culinary miracle, even when it had nothing to do with the conversation at hand.
+
+.. image:: _images/guests/251218_bethany_indian.jpg
+
