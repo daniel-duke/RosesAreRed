@@ -505,8 +505,11 @@ Recipe: Laura and Daniel are currently figuring that out, stay tuned!
 
 .. image:: _images/processed/food/251211_candied_oranges.webp
 
+===============
+Christmas Feast
+===============
 
-
+.. image:: _images/processed/food/251225_christmas_feast.webp
 
 
 

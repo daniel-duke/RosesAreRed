@@ -36,3 +36,8 @@ Plant Sanctuary
 
 .. image:: _images/processed/projects/251210_plant_sanctuary.webp
 
+============================
+Pyrographed Laura and Daniel
+============================
+
+.. image:: _images/processed/projects/251225_hug.webp
