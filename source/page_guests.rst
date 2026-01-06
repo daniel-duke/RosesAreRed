@@ -69,7 +69,22 @@ Alisha - Staining
 Bethany - Indian Feast
 ======================
 
-Though prepared in a college dorm room and eaten with plastic cutlery, this glorious medley of vivid flavors compelled Daniel to repeatedly lavish praise upon Bethany for her culinary miracle, even when it had nothing to do with the conversation at hand.
-
 .. image:: _images/processed/guests/251218_bethany_indian.webp
+   :width: 50%
+   :align: right
+
+Though prepared in a college dorm room and eaten with plastic cutlery, this glorious medley of vivid flavors compelled Daniel to repeatedly lavish praise upon Bethany for her culinary miracle, even when the complements had nothing to do with the conversation at hand.
+Other activities of the day included working in a cold dungeon (also known as the library), some early Christmas shopping, and dicussing topics ranging from the first Baptist missionairy to the NYC subway system to the ethics of telling lies.
+
+================================
+Jennifer - Christmas Expeditions
+================================
+
+.. image:: _images/processed/guests/260103_jennifer_xmas.webp
+
+
+
+
+
+
 

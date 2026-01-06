@@ -27,7 +27,8 @@ find "$SRC_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" \) ! -name ".*" | w
 
     mkdir -p "$(dirname "$dst_file")"
     echo "Converting JPG/JPEG: $src_file -> $dst_file"
-    cwebp -q "$QUALITY" -resize "$MAX_WIDTH" 0 "$src_file" -o "$dst_file"
+	magick "$src_file" -auto-orient -resize "${MAX_WIDTH}x>" -quality "$QUALITY" "$dst_file"
+    #cwebp -q "$QUALITY" -resize "$MAX_WIDTH" 0 "$src_file" -o "$dst_file"
 done
 
 # ---------- 2) Copy all non-JPG/JPEG files ----------

@@ -68,3 +68,16 @@ They may occasionally consider themselves not-half-bad-looking, but alas, someti
 .. image:: _images/processed/adventures/251101_CT2_1.webp
 
 .. image:: _images/processed/adventures/251103_CT2_2.webp
+
+==========
+Shenandoah
+==========
+
+.. image:: _images/processed/adventures/251231_shen.webp
+
+
+
+
+
+
+

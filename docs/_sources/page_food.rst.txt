@@ -505,11 +505,42 @@ Recipe: Laura and Daniel are currently figuring that out, stay tuned!
 
 .. image:: _images/processed/food/251211_candied_oranges.webp
 
+================
+Blueberry Scones
+================
+
+Yes, Daniel knows, he has already exhibited his blueberry scones, but these look so cool! Almost like a colorful lunar landscape...
+
+.. image:: _images/processed/food/251220_scones.webp
+
+================
+Christmas Treats
+================
+
+What a tasty, festive weekend :)
+
+.. image:: _images/processed/food/251221_christmas_treats.webp
+
 ===============
 Christmas Feast
 ===============
 
 .. image:: _images/processed/food/251225_christmas_feast.webp
+
+=====================
+Breakfast in Virginia
+=====================
+
+Prepared in a beautiful, centery-old house in Shenandoah Valley.
+
+.. image:: _images/processed/food/251230_breakfast.webp
+
+===================
+Mushroom Stroganoff
+===================
+
+.. image:: _images/processed/food/260103_shroom_stroggie.webp
+
 
 
 

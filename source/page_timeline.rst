@@ -127,3 +127,16 @@ The separation hurt them both deeply, and they hope to always celebrate together
 .. important::
    This account has been read and approved by Wauwa :)
 
+========================
+Plants in South Carolina
+========================
+
+Daniel could not have asked for a better Christmas present.
+
+.. image:: _images/processed/timeline/251227_SC_plants.webp
+
+
+
+
+
+
