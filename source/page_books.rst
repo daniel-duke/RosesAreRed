@@ -55,8 +55,8 @@ Laura's 2025 Book Log
    Here are the stats:
 
    * 53 books in total.
-   * 478 hours in total.
-   * 9.2 hours/book on average.
+   * 510 hours in total.
+   * 9.6 hours/book on average.
 
    The favorite? Anna Karenina, by Leo Tolstoy.
 
