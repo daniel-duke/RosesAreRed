@@ -531,7 +531,7 @@ Christmas Feast
 Breakfast in Virginia
 =====================
 
-Prepared in a beautiful, centery-old house in Shenandoah Valley.
+Prepared in a beautiful, century-old house in Shenandoah Valley.
 
 .. image:: _images/processed/food/251230_breakfast.webp
 

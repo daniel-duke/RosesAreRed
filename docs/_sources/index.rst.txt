@@ -26,15 +26,13 @@ Daniel is cute. Daniel is wonderful. Daniel is a gallant boy who melts Laura's h
 
    page_timeline
    page_food
-   page_laura_ex
-   page_daniel_exs
-   page_2025_calendar
-   page_guests
    page_projects
    page_adventures
+   page_guests   
    page_jumps
    page_books
    page_curiosities
+   page_2025_calendar
 
 Indices and tables
 ==================
