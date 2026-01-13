@@ -42,7 +42,7 @@ The Tainted Cup                  Robert Jackson Bennett      14
 The Book Thief :sup:`†`          Markus Zusak                14      ★
 Warbreaker                       Brandon Sanderson           25      ★
 The Emerald Mile                 Kevin Fedarko               17      ★
-The Canterville Ghost :sup:`‡`   Oscar Wilde                 2       
+The Canterville Ghost :sup:`‡`   Oscar Wilde                 1       
 ===============================  ==========================  ======  =========
 
 | :sup:`†` Books recommended by Laura.
@@ -124,6 +124,12 @@ Warbreaker :sup:`†`              Brandon Sanderson           25     ★
 
 | :sup:`†` Books recommended by Daniel.
 | :sup:`‡` Books read with Daniel.
+
+============
+Book Lengths
+============
+
+.. image:: _images/processed/books/books_2025.png
 
 
 
