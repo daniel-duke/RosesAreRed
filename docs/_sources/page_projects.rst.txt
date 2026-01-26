@@ -42,6 +42,11 @@ Pyrographed Hug
 
 .. image:: _images/processed/projects/251225_hug.webp
 
+=========
+Wood Chop
+=========
 
-
+.. video:: _images/processed/projects/260123_chop.mp4
+   :width: 103.4%
+   :loop:
 

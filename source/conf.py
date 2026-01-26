@@ -16,7 +16,7 @@ release = '2025'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['myst_parser']
+extensions = ['myst_parser', 'sphinxcontrib.video']
 templates_path = ['_templates']
 
 
@@ -26,7 +26,6 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 html_extra_path = ['_extra']
 html_title = 'a lovely website for a lovely girl'
-
 html_static_path = ['_static']
 
 def setup(app):
