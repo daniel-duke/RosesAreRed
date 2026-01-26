@@ -541,9 +541,35 @@ Mushroom Stroganoff
 
 .. image:: _images/processed/food/260103_shroom_stroggie.webp
 
+====================
+Duke Christmas Feast
+====================
 
+.. image:: _images/processed/food/260110_duke_christmas.webp
 
+==========
+Coq Au Vin
+==========
 
+.. image:: _images/processed/food/260115_coq_au_vin.webp
+
+=================
+Eggs and Broccoli
+=================
+
+.. image:: _images/processed/food/260116_eggs_broccoli.webp
+
+====================
+Cabbage and Kielbasa
+====================
+
+.. image:: _images/processed/food/260124_cabbage_kielbasa.webp
+
+================
+Handmade Gnocchi
+================
+
+.. image:: _images/processed/food/260125_gnocchi.webp
 
 
 
