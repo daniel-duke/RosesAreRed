@@ -46,7 +46,10 @@ Pyrographed Hug
 Wood Chop
 =========
 
-.. video:: _images/processed/projects/260123_chop.mp4
-   :width: 103.4%
-   :loop:
+.. raw:: html
 
+   <div style="position: relative; width: 100%; max-width: 100%;">
+       <video width="100%" height="auto" loop controls>
+           <source src="260123_chop.mp4" type="video/mp4">
+       </video>
+   </div>
