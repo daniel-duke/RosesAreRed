@@ -1,5 +1,5 @@
-Recipe Vault
-============
+Recipe Box
+==========
 
 Below are recipes where a simple link to an external website does not suffice.
 This may be the case for family, custom, and social media recipes.
