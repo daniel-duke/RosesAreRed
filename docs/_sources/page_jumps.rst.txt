@@ -33,6 +33,18 @@ Same spot, new jumps!
 
 .. image:: _images/processed/jumps/260102_stone_everyone.webp
 
+================================
+Daniel and Laura - Isle of Palms
+================================
 
+Two mirrored jumpers this time!
 
+.. image:: _images/processed/jumps/260509_isle_of_palms.webp
 
+========================
+Laura - Cloudland Canyon
+========================
+
+Deep in the jungles of northern Georgia...
+
+.. image:: _images/processed/jumps/260531_cloudland.webp

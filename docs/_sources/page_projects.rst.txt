@@ -46,6 +46,8 @@ Pyrographed Hug
 Wood Chop
 =========
 
+No better way to stay warm in the winter! Plus, the fire later is nice and warm too!
+
 .. raw:: html
 
    <div style="position: relative; width: 100%; max-width: 100%;">
@@ -53,3 +55,15 @@ Wood Chop
            <source src="260123_chop.mp4" type="video/mp4">
        </video>
    </div>
+   <div style="margin-top: 20px;"></div>
+
+=========
+Seedlings
+=========
+
+.. image:: _images/processed/projects/260301_seedlings.webp
+
+.. attention::
+   Ideally, seeds should be planted when the primary caretaker will be nearby, giving the seedlins attention and keeping the soil moist, for the next several weeks.
+   If, for example, the head gardener were to (partially unexpectedly) leave town for 2.5 weeks shortly after sowing the seeds, and the seeds were to remain without water for the duration of this period, the seedlings would most assuredly die.
+

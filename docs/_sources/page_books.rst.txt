@@ -1,5 +1,5 @@
-Books
-=====
+Listener's Digest
+=================
 
 ======================
 Daniel's 2025 Book Log
@@ -125,9 +125,9 @@ Warbreaker :sup:`†`              Brandon Sanderson           25     ★
 | :sup:`†` Books recommended by Daniel.
 | :sup:`‡` Books read with Daniel.
 
-============
-Book Lengths
-============
+=================
+2025 Book Lengths
+=================
 
 .. image:: _images/processed/books/books_2025.png
 

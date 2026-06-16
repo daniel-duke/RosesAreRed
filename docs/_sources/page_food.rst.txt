@@ -1,4 +1,4 @@
-Lovers' Digest
+Lover's Digest
 ==============
 
 ================
@@ -42,11 +42,15 @@ __ https://www.recipetineats.com/rogan-josh/
 Chicken Piccata
 ===============
 
-The first Phillips dinner supplied by Chef de Cuisine Daniel Duke. Recipe__ (double the sauce).
+The first Phillips dinner supplied by Chef de Cuisine Daniel Duke. Recipe__.
 
-__ https://themodernproper.com/chicken-piccata
+__ https://altonbrown.com/recipes/good-eats-chicken-piccata/
 
 .. image:: _images/processed/food/241231_piccata.webp
+
+.. note::
+   The recipe provided above is not the one used to make the meal pictured above.
+   In the months since making this meal, Daniel has found another recipe (thanks Nathaniel) that he likes more.
 
 ============
 Corn Chowder
@@ -65,7 +69,7 @@ __ https://natashaskitchen.com/corn-chowder-recipe/
 Roasted Tomato Quiche
 =====================
 
-One of four quiches prepared in a single night. Recipe__ (add cayenne to egg mixture and tomatoes on top).
+One of four quiches prepared in a single night. Recipe__ (add cayenne to egg mixture and top with sliced tomatoes).
 
 __ https://sallysbakingaddiction.com/cheesy-spinach-quiche/
 
@@ -78,7 +82,7 @@ __ https://sallysbakingaddiction.com/cheesy-spinach-quiche/
 Cinnamon Biscuits
 =================
 
-Even though these look so delicious, Laura still prefers the good ol' flully plain ones. Recipe__ (for regular ones)
+Even though these look so delicious, Laura still prefers the good ol' flully plain ones. Recipe__ (for regular ones).
 
 __ https://sugarspunrun.com/easy-homemade-biscuits/
 
@@ -116,16 +120,6 @@ __ https://www.halfbakedharvest.com/spinach-and-artichoke-chicken/
    The second attempt at this recipe looked much prettier, and is thus pictured above.
    However, the stress of making it for Laura's parents after a stressful day at work compromised the quality of the meal, sadly.
    It still earned 5-star (and $28 market price) reviews from the parents, but both Laura and Daniel agreed it lacked flavor, likely due to insufficient salt and lemon juice.
-
-============
-Baked Salmon
-============
-
-Unexpedtedly delicious. Served with hot honey cauliflower, roated potatoes, and (not pictured) homemade Ceasar salad. Recipe__.
-
-__ https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-baked-salmon-1-8081733
-
-.. image:: _images/processed/food/250322_baked_salmon.webp
 
 ================
 Beautiful Omelet
@@ -202,7 +196,7 @@ __ https://www.foodnetwork.com/recipes/ree-drummond/best-tomato-soup-ever-213861
 Swirly Biscuit
 ==============
 
-Most of the biscuits were normal, but the swirly one is quite cute and nice, even though the taste suffered. Recipe__
+Most of the biscuits were normal, but the swirly one is quite cute and nice, even though the taste suffered. Recipe__.
 
 __ https://sugarspunrun.com/easy-homemade-biscuits/
 
@@ -215,7 +209,7 @@ __ https://sugarspunrun.com/easy-homemade-biscuits/
 Tapenade Orzo Chicken
 =====================
 
-Hastily thrown together late on a Sunday night, but turned out unexpectedly good! Recipe: inspired by the marry me chicken (here__), but heavily altered (by including tapenade, for instance).
+Hastily thrown together late on a Sunday night, but turned out unexpectedly good! Inspired by the marry me chicken (recipe__), but heavily altered (by including tapenade, for instance).
 
 __ https://www.halfbakedharvest.com/pesto-marry-me-chicken-and-orzo/
 
@@ -357,7 +351,9 @@ __ https://sunbasket.com/recipe/mediterranean-garlic-shrimp-with-spanish-rice
 International Cookout
 =====================
 
-Cuisines represented: German (brats and red cabbage), Chinese (lotus root and shrooms), American (mac n' cheese and chicken skewer), Japanese (milk rools), Taiwanese (boba tea), and French (canele).
+Cuisines represented: German (brats and red cabbage), Chinese (lotus root and shrooms), American (mac n' cheese and chicken skewer), Japanese (milk rools), Taiwanese (boba tea), and French (canele). Mac n' cheese recipe__.
+
+__ https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/
 
 .. image:: _images/processed/food/250906_cookout.webp
 
@@ -391,7 +387,11 @@ Feasting in CT
 ==============
 
 What to do in Connecticut? Mostly cook, it seems.
-Over the course of the weekend, the crew made corn chowder, Turkish eggs, rustic bread, a steak dinner (with 7 dishes), and cranberry orange scones.
+Over the course of the weekend, the crew made corn chowder, Turkish eggs, rustic bread, a steak dinner (with 7 dishes), and cranberry orange scones. Focaccia recipe__, scones recipe__.
+
+__ https://www.bonappetit.com/recipe/easy-no-knead-focaccia
+
+__ https://sallysbakingaddiction.com/glazed-cranberry-orange-scones/
 
 .. image:: _images/processed/food/251101_hahner_food.webp
 
@@ -459,9 +459,9 @@ __ https://www.delish.com/cooking/recipe-ideas/a62770460/sheet-pan-miso-chicken-
 
 .. image:: _images/processed/food/251114_miso_chicken.webp
 
-=============================
-Mediterranean Roasted Veggies
-=============================
+===================
+Mediterranean Roast
+===================
 
 Recipe__.
 
@@ -509,7 +509,9 @@ Recipe: Laura and Daniel are currently figuring that out, stay tuned!
 Blueberry Scones
 ================
 
-Yes, Daniel knows, he has already exhibited his blueberry scones, but these look so cool! Almost like a colorful lunar landscape...
+Yes, Daniel knows, he has already exhibited his blueberry scones, but these look so cool! Almost like a colorful lunar landscape... Recipe__.
+
+__ https://sallysbakingaddiction.com/my-favorite-blueberry-scones/
 
 .. image:: _images/processed/food/251220_scones.webp
 
@@ -539,11 +541,17 @@ Prepared in a beautiful, century-old house in Shenandoah Valley.
 Mushroom Stroganoff
 ===================
 
+Recipe__.
+
+__ https://cooking.nytimes.com/recipes/1022724-mushroom-stroganoff
+
 .. image:: _images/processed/food/260103_shroom_stroggie.webp
 
 ====================
 Duke Christmas Feast
 ====================
+
+Prepared with much help from Laura :)
 
 .. image:: _images/processed/food/260110_duke_christmas.webp
 
@@ -551,7 +559,14 @@ Duke Christmas Feast
 Coq Au Vin
 ==========
 
+Recipe__.
+
+__ https://damndelicious.net/2022/01/08/easy-coq-au-vin/
+
 .. image:: _images/processed/food/260115_coq_au_vin.webp
+
+.. tip::
+   Next time, maybe try using pearl onions!
 
 =================
 Eggs and Broccoli
@@ -563,16 +578,315 @@ Eggs and Broccoli
 Cabbage and Kielbasa
 ====================
 
+:ref:`Recipe <cabbage_and_kielbasa>`.
+
 .. image:: _images/processed/food/260124_cabbage_kielbasa.webp
 
 ================
 Handmade Gnocchi
 ================
 
+:ref:`Recipe <gnocchi>`.
+
 .. image:: _images/processed/food/260125_gnocchi.webp
 
+.. tip::
+   Don't bother making perfect little fellas: just roll into rough logs, chop up, pile on a plate with lots of flour. 
 
+===================
+Good Girl Breakfast
+===================
 
+Should you be surprised? Certainly not: Laura is a very good girl.
 
+.. image:: _images/processed/food/260126_good_girl.webp
 
+=================
+Bok Choy Stir Fry
+=================
+
+Cooked while on a phone call! What a multitasker Laura can be.
+
+.. image:: _images/processed/food/260127_bok_choy.webp
+
+==============
+Snow Breakfast
+==============
+
+Did the snow play a significant part in the breakfast? Not at all.
+In fact, photo time on the snow was kept to a minimum for the sake of keeping food warm.
+On the other hand, what could motivate the preparation of a savory warm breakfast by the fire more than 8 inches of snow on the ground!
+
+.. image:: _images/processed/food/260131_snow_breakfast.webp
+
+============
+Baked Salmon
+============
+
+Same recipe as always, and just as good as always. Recipe__.
+
+__ https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-baked-salmon-1-8081733
+
+.. image:: _images/processed/food/260201_salmon.webp
+
+=========
+Rice Soup
+=========
+
+Thoughtfully prepared by Laura for Daniel after a gruelingly long group meeting. Thanks, Wauwau :)
+
+.. image:: _images/processed/food/260206_rice_soup.webp
+
+================
+Moroccan Chicken
+================
+
+Sadly, Daniel prepared this meal at home only for himself.
+But it was so tasty that it belongs on this record to remind Daniel to make it again for Laura (sooner rather than later). Recipe__.
+
+__ https://www.themediterraneandish.com/chicken-couscous/
+
+.. image:: _images/processed/food/260219_moroccan_chicken.webp
+
+====================
+Honey Garlic Chicken
+====================
+
+:ref:`Recipe <honey_garlic_chicken>`.
+
+.. image:: _images/processed/food/260221_honey_chicken.webp
+
+.. note::
+   Laura likes sweet Daniel much more than sweet foods.
+
+=======
+Gnocchi
+=======
+
+Even store-bought gnocchi can be tasty with a good sauce (and mushrooms). Recipe__.
+
+__ https://therecipecritic.com/creamy-tuscan-garlic-sauce/
+
+.. image:: _images/processed/food/260223_gnocchi.webp
+
+===============
+Chicken Piccata
+===============
+
+Not the first, and certainly not the last. This meal is quickly turning into a bona fide staple. Recipe__.
+
+__ https://altonbrown.com/recipes/good-eats-chicken-piccata/
+
+.. image:: _images/processed/food/260302_piccata.webp
+
+.. tip::
+   Use cornstarch to thicken up the sauce (also, make lots of sauce), but be cautious to avoid turning the sauce into a gel.
+
+===========================
+Sausage Ricotta Baked Pasta
+===========================
+
+No butcher block? No granite countertop? Well, these things are hard to come by when CAMPING! Recipe__.
+
+__ https://cooking.nytimes.com/recipes/1020811-cheesy-baked-pasta-with-sausage-and-ricotta
+
+.. image:: _images/processed/food/260307_camping_pasta.webp
+
+====================
+Homecoming Breakfast
+====================
+
+After 2.5 weeks apart, Laura and Daniel reunited with lots of hugs, kisses, and a hearty breakfast :)
+
+.. image:: _images/processed/food/260325_good_girl.webp
+
+==============
+Tuscan Chicken
+==============
+
+Recipe__.
+
+__ https://tasty.co/recipe/creamy-tuscan-chicken
+
+.. image:: _images/processed/food/260328_tuscan_chicken.webp
+
+==========
+Fish Tacos
+==========
+
+Recipe__.
+
+__ https://natashaskitchen.com/fish-tacos-recipe/
+
+.. image:: _images/processed/food/260408_fish_taco.webp
+
+===================
+Good Girl Breakfast
+===================
+
+Who's a good girl? That's right, Laura is! Yes she is!
+
+.. image:: _images/processed/food/260410_good_girl.webp
+
+================================
+Breakfast Burrito, Deconstructed
+================================
+
+.. image:: _images/processed/food/260415_breakfast_burrito.webp
+
+=================
+Kale Quinoa Salad
+=================
+
+Salad recipe__, grilled chicken recipe__.
+
+__ https://kalejunkie.com/ultimate-kale-salad-with-creamy-tahini-lemon-dressing/
+
+__ https://www.onceuponachef.com/recipes/perfectly-grilled-chicken-breasts.html
+
+.. image:: _images/processed/food/260415_kale_salad.webp
+
+.. tip::
+   One might be tempted to cool this salad down before serving (it is a salad after all), even though the recipe does not mention this step.
+   While this salad may still be tasty cold, it is definitely best right after mixing, when still warm.
+
+===============
+Chicken Piccata
+===============
+
+It just gets better and better. Recipe__.
+
+__ https://altonbrown.com/recipes/good-eats-chicken-piccata/
+
+.. image:: _images/processed/food/260420_piccata.webp
+
+=========
+Schnitzel
+=========
+
+Inidividually, each component proved delightfully tasty. Together, they formed something astoundingly scrumptious. Schnitzel recipe__, cucumber salad recipe__.
+
+__ https://www.recipetineats.com/schnitzel/
+
+__ https://platedcravings.com/german-cucumber-salad-recipe/
+
+.. image:: _images/processed/food/260421_schnitzel.webp
+
+========
+Thai Egg
+========
+
+.. image:: _images/processed/food/260421_thai_egg.webp
+
+==============
+Mongolian Beef
+==============
+
+Recipe__.
+
+__ https://thewoksoflife.com/mongolian-beef-recipe/
+
+.. image:: _images/processed/food/260430_mongolian_beef.webp
+
+================
+Marry Me Chicken
+================
+
+Recipe__.
+
+__ https://www.halfbakedharvest.com/pesto-marry-me-chicken-and-orzo/
+
+.. image:: _images/processed/food/260511_marry_me.webp
+
+.. note::
+   Top with chili crisp!
+
+=================
+Sheet Pan Fajitas
+=================
+
+:ref:`Recipe <sheet_pan_fajitas>`.
+
+.. image:: _images/processed/food/260516_fajita.webp
+
+==================
+Mediterranea Roast
+==================
+
+Recipe__.
+
+__ https://www.recipetineats.com/mediterranean-baked-chicken-dinner/
+
+.. image:: _images/processed/food/260517_mediterranean.webp
+
+=======================
+Cucumber Chickpea Salad
+=======================
+
+Recipe__.
+
+__ https://plantyou.com/cucumber-chickpea-salad/
+
+.. image:: _images/processed/food/260520_cucumber_chickpea.webp
+
+===================
+Argentinian Burgers
+===================
+
+Memorial day cookout! Thanks Sophie and Sean for stoping by. Burger :ref:`recipe <burgers>`, chimichurri recipe__, red cabbage recipe__, ciabatta recipe__.
+
+__ https://www.seriouseats.com/sauced-chimichurri-sauce-recipe
+
+__ https://cooking.nytimes.com/recipes/1013028-braised-red-cabbage-with-apples
+
+__ https://thepracticalkitchen.com/soft-baked-ciabatta-bread/
+
+.. image:: _images/processed/food/260527_burgers.webp
+
+.. warning::
+   When cooking for Sophie, pay extra attention to the doneness of the meat - it has a tendency to come out severely undercooked when she is around.
+
+==========================
+Cauliflower Couscous Salad
+==========================
+
+Recipe__.
+
+__ https://plantyou.com/cauliflower-sweet-potato-couscous-salad/
+
+.. image:: _images/processed/food/260603_cauli_couscous.webp
+
+.. note::
+   The sauce packs all the flavor in this dish, and the recipe does not make enough of it.
+   Daniel thinks 1.5x the sauce should do the trick.
+
+===============
+Chicken Piccata
+===============
+
+Too much chicken piccata? Never! Recipe__.
+
+__ https://altonbrown.com/recipes/good-eats-chicken-piccata/
+
+.. image:: _images/processed/food/260605_piccata.webp
+
+=============
+Apple Muffins
+=============
+
+Recipe__.
+
+__ https://houseofnasheats.com/apple-oatmeal-muffins/
+
+.. image:: _images/processed/food/260606_apple_muffins.webp
+
+====================
+Gochujang Tofu Mince
+====================
+
+Tofu :ref:`recipe <gochu_tofu>`, cucumber salad recipe__.
+
+__ https://www.thekitchn.com/recipe-tangy-cucumber-salad-243623
+
+.. image:: _images/processed/food/260612_gochu_tofu.webp
 

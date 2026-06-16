@@ -82,8 +82,11 @@ Jennifer - Christmas Expeditions
 
 .. image:: _images/processed/guests/260103_jennifer_xmas.webp
 
+=========================
+Sophie - Planting Lillies
+=========================
 
-
+.. image:: _images/processed/guests/260503_sophie_lillies.webp
 
 
 
