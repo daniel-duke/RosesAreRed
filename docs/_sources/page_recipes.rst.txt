@@ -21,7 +21,7 @@ Ingredients
 * 1/2 small head cabbage, coarsely chopped (about 3 cups)
 * 1/4 cup chicken broth or white wine
 * S&P to taste
-* Crumbled bacon (optional)
+* crumbled bacon (optional)
 
 Directions
 ^^^^^^^^^^
@@ -43,8 +43,8 @@ Ingredients
 ^^^^^^^^^^^
 
 * 2 lb russet potatoes
-* Pinch white pepper
-* Pinch nutmeg
+* pinch white pepper
+* pinch nutmeg
 * S&P to taste
 * 2 large eggs
 * 1/2 cup Ricotta cheese
@@ -73,7 +73,7 @@ Ingredients
 ^^^^^^^^^^^
 
 * 1 lb chicken breasts
-* Salt and pepper
+* salt and pepper
 * 1/4 cup flour
 * 3 1/2 T unsalted butter
 * 2 cloves minced garlic
@@ -138,7 +138,7 @@ Ingredients
 
 * 1/2 cup sour cream
 * 1/4 cup mayonnaise
-* Roasted garlic (the whole head)
+* roasted garlic (the whole head)
 * 2 chipotle pepper
 * 1 T honey
 * 1/2 lime, juiced
@@ -209,5 +209,42 @@ Instructions
 #. Meanwhile, mix the chili crisp, gochujang, soy sauce, brown sugar, rice vinegar, sesame oil and water together in a small dish to make the sauce mix.
 #. When the tofu is done, sauté the spring onion, garlic & ginger until fragrant, then add the tofu followed by the sauce mix.
 #. Stir in & cook down until thick & sticky then serve immediately over rice, topped with spring onion & sesame seeds.
+
+____
+
+.. _cacio_de_pere:
+
+Cacio de Pere
+-------------
+
+Ingredients
+^^^^^^^^^^^
+
+* 8 oz pappardelle pasta
+* 1 cup pecorino
+* 2 under-ripe pears
+* olive oil
+* salt and pepper
+* grilled chicken
+
+Instructions
+^^^^^^^^^^^^
+
+#. Cook the pasta. When draining, reserve at least 1 cup of pasta water.
+#. Measure out pecorino into bowl and season with pepper.
+#. Dice up the pears into 1/2" cubes.
+#. Place non-stick pan on medium-high heat with some olive oil.
+#. Add diced pears, then season generously with salt and pepper.
+#. Cook the pears for 5-8 min, stirring frequently, until golden brown.
+#. When the pears are done, remove them from the pan, keeping any free olive oil in the pan.
+#. Lower the heat to medium-low and add a little olive oil if the pan is dry.
+#. Crack in some pepper and sauté for a couple minutes.
+#. While the pepper heats up, add ~1/4 cup pasta water to the cheese bowl. Mix thoroughly until a smooth paste forms.
+#. Add the pasta to the pan and coat with olive oil. 
+#. Add ~1/2 cup pasta water. Stir. Add the pears. Stir. Add the cheese paste. Stir.
+#. As soon as everything is combined, remove from heat.
+
+
+
 
 

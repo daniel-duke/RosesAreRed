@@ -747,8 +747,8 @@ __ https://www.onceuponachef.com/recipes/perfectly-grilled-chicken-breasts.html
 .. image:: _images/processed/food/260415_kale_salad.webp
 
 .. tip::
-   One might be tempted to cool this salad down before serving (it is a salad after all), even though the recipe does not mention this step.
-   While this salad may still be tasty cold, it is definitely best right after mixing, when still warm.
+   One might be tempted to cool this salad down before serving (it's a salad after all), even though the recipe does not mention this step.
+   While this salad is still tasty cold, it is definitely best right after mixing, when still warm.
 
 ===============
 Chicken Piccata
@@ -844,7 +844,7 @@ __ https://thepracticalkitchen.com/soft-baked-ciabatta-bread/
 .. image:: _images/processed/food/260527_burgers.webp
 
 .. warning::
-   When cooking for Sophie, pay extra attention to the doneness of the meat - it has a tendency to come out severely undercooked when she is around.
+   When cooking for Sophie, pay extra attention to the doneness of the meat: it has a tendency to come out severely undercooked when she is around.
 
 ==========================
 Cauliflower Couscous Salad

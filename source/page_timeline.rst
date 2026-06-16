@@ -135,8 +135,11 @@ Daniel could not have asked for a better Christmas present.
 
 .. image:: _images/processed/timeline/251227_SC_plants.webp
 
+===============
+Spring Planting
+===============
 
-
+.. image:: _images/processed/timeline/260503_planting.webp
 
 
 

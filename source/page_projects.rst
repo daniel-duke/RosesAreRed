@@ -46,7 +46,7 @@ Pyrographed Hug
 Wood Chop
 =========
 
-No better way to stay warm in the winter! Plus, the fire later is nice and warm too!
+No better way to stay warm in the winter! Plus, the fire is nice and warm too!
 
 .. raw:: html
 
@@ -64,6 +64,6 @@ Seedlings
 .. image:: _images/processed/projects/260301_seedlings.webp
 
 .. attention::
-   Ideally, seeds should be planted when the primary caretaker will be nearby, giving the seedlins attention and keeping the soil moist, for the next several weeks.
+   Ideally, seeds should be planted when the primary caretaker will be nearby for the next several weeks, making sure the seedlings receive ample attention and the soil stays moist.
    If, for example, the head gardener were to (partially unexpectedly) leave town for 2.5 weeks shortly after sowing the seeds, and the seeds were to remain without water for the duration of this period, the seedlings would most assuredly die.
 
