@@ -24,7 +24,7 @@ images:
 	@cd source/_images && ./process.sh
 
 # Addition by Daniel for github deployment
-github: images
+website: images
 	@make html
 	@mv docs/html .
 	@rm -rf docs

@@ -236,15 +236,11 @@ Instructions
 #. Place non-stick pan on medium-high heat with some olive oil.
 #. Add diced pears, then season generously with salt and pepper.
 #. Cook the pears for 5-8 min, stirring frequently, until golden brown.
-#. When the pears are done, remove them from the pan, keeping any free olive oil in the pan.
+#. When done, scoop the pears into a bowl, keeping any free olive oil in the pan.
 #. Lower the heat to medium-low and add a little olive oil if the pan is dry.
 #. Crack in some pepper and sauté for a couple minutes.
 #. While the pepper heats up, add ~1/4 cup pasta water to the cheese bowl. Mix thoroughly until a smooth paste forms.
-#. Add the pasta to the pan and coat with olive oil. 
+#. Add the pasta to the pan and coat with the oil. 
 #. Add ~1/2 cup pasta water. Stir. Add the pears. Stir. Add the cheese paste. Stir.
 #. As soon as everything is combined, remove from heat.
-
-
-
-
 
